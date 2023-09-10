@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+    background: url(fundo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    font: normal 15pt Arial;
+}
+
+header {
+    font-family: 'Lobster', cursive;   
+    text-align: center;
+    color: white;
+    text-shadow: 4px 4px 6px rgba(5, 5, 8, 0.5);
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 3px 3px 10px;
+}
+
+div {
+    font-family: 'Lobster', cursive; 
+    text-align: center;
+    padding: 8px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
